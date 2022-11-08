@@ -1,8 +1,8 @@
 <img src="./Retropix.gif">
 
-<h2 align="center">
+<h1 align="center">
  Full Stack Developer 
-</h2>
+</h1>
 
 <p>
 Hello!👋
@@ -70,5 +70,5 @@ My name is Alejandro Gabriel Corzo ↙
 ### Contact 💼
 
 <p align="left">
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=alejandro.g.corzo@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png"  alt="alejandro.g.corzo@gmail.com" height="28" width="32" /></a><a href="https://www.linkedin.com/in/janonanzer/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AleCorzo" height="30" width="40" margin="10"  /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=alejandro.g.corzo@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png"  alt="alejandro.g.corzo@gmail.com" height="28" width="32" /></a><a href="https://www.linkedin.com/in/alejandro-gabriel-corzo/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" margin="10"  /></a>
 </p>
