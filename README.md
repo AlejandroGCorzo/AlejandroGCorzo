@@ -5,14 +5,12 @@
 </h1>
 
 <p>
-Hello!👋
-My name is Alejandro Gabriel Corzo ↙
+Hi there! 👋 My name is Alejandro Gabriel Corzo. I started my path in the Web Development world 1 year ago. Among other courses and workshops, I am a certified Full Stack Developer in HENRY bootcamp, adding +1200 hours of academic experience in programming with real, individual and group projects.
 
-🔸Full stack developer graduated from SoyHenry!!🎓
+I love the idea of creating and providing solutions wherever they are needed. I seek to apply these passions in web development where I am convinced that I can extensively use my creativity and problem solving skills. I like to learn new things, have an organized routine and enjoy constant learning. I really enjoy working in a group and I am also very good individually.
 
-🔸Oriented to Back-End, with experience in Front-End logic and functionalities and with desire to continue training in all areas! 👨‍💻
-
-🔸I consider myself excellent in my problem solving skills. I am willing to learn from my co-workers and to help those in need. Thus developing a good teamwork environment and better human relations. 💪
+Why me? 🙋‍♂️
+I am a curious person and always looking for the best way to accomplish tasks. I am willing to learn from others and to help those in need. According to this point of view, I believe that working in this way can achieve great results and better human relations.
 
 </p>
 
@@ -44,10 +42,12 @@ My name is Alejandro Gabriel Corzo ↙
 <a href="https://pi-pokemon-front-agc.vercel.app/">🎮 Visit site 🎮</a>
 
 <p>
+<a href="https://pi-pokemon-front-agc.vercel.app/">
 <img width="45%" src="./img/pi-pokemon/landing.jpeg">
 <img width="45%" src="./img/pi-pokemon/home.jpeg">
 <img width="45%" src="./img/pi-pokemon/detail.png">
 <img width="45%" src="./img/pi-pokemon/create.png">
+</a>
 </p>
 
 <a href="https://github.com/AlejandroGCorzo/Mi-Scusi-Books">📚 Mi Scusi Books App 📚</a>
