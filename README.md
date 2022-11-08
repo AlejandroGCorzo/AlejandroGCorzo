@@ -1,4 +1,4 @@
-![Hi, I'm Alejandro Gabriel Corzo!]()
+<img src="./Retropix.gif">
 
 Hello!👋 
 My name is Alejandro Gabriel Corzo ↙
