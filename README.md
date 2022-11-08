@@ -55,10 +55,12 @@ I am a curious person and always looking for the best way to accomplish tasks. I
 <a href="https://mi-scusi-books.vercel.app/">😎 Visit site 😎</a>
 
 <p>
+<a href="https://mi-scusi-books.vercel.app/">
 <img width="45%" src="./img/pf-mi scusi books/home.jpeg">
 <img width="45%" src="./img/pf-mi scusi books/allbooks.png">
 <img width="45%" src="./img/pf-mi scusi books/cart.png">
 <img width="45%" src="./img/pf-mi scusi books/pdfreader.png">
+</a>
 </p>
 
 ## ✨ GitHub Stats ✨
