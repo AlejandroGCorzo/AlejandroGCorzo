@@ -5,13 +5,9 @@
 </h1>
 
 <p>
-Hi there! 👋 My name is Alejandro Gabriel Corzo. I started my path in the Web Development world 1 year ago. Among other courses and workshops, I am a certified Full Stack Developer in HENRY bootcamp, adding +1200 hours of academic experience in programming with real, individual and group projects.
+As a Back End Developer at Techforb, I develop and maintain a Java Spring Boot API that enhances the platform's capabilities, ensuring smooth and secure transactions for a digital banking system. I apply SQL, Java, Java Spring Boot, and Microservices to create robust solutions that are both scalable and reliable. I have also worked as a Full Stack Developer at AVLA and a Java Software Developer at Globant, where I gained valuable experience in developing and maintaining web applications using different technologies, such as React, JavaScript, NodeJs, MongoDB, ExpressJs and NestJs.
 
-I love the idea of creating and providing solutions wherever they are needed. I seek to apply these passions in web development where I am convinced that I can extensively use my creativity and problem solving skills. I like to learn new things, have an organized routine and enjoy constant learning. I really enjoy working in a group and I am also very good individually.
-
-Why me? 🙋‍♂️
-I am a curious person and always looking for the best way to accomplish tasks. I am willing to learn from others and to help those in need. According to this point of view, I believe that working in this way can achieve great results and better human relations.
-
+I am passionate about web development and dedicated to constantly improving and excelling in my craft. I thrive on seeking the most effective solutions and am committed to ongoing development, always striving to perform tasks to the best of my ability. I am enthusiastic about learning and enjoy working both independently and as part of a team. I love the idea of creating and providing solutions wherever they are needed, and I seek to apply these passions in web development where I can extensively use my creativity and problem-solving skills.
 </p>
 
 ## ✨ Skills ✨
